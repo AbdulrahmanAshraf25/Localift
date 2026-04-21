@@ -60,22 +60,22 @@ The idea behind Localift is to empower local entrepreneurs by offering a scalabl
 
 ### UX precess
 ### Omar Ghoniem
-Stakeholder interview questions<br><br>
+-Stakeholder interview questions<br><br>
 
 
 ### Abdulrahman Ashraf
 
-Competitor Analysis<br><br>
+-Competitor Analysis<br><br>
 
 ### Ahmed Ekramy
 
-User(buyer) survey questions<br><br>
+-User(buyer) survey questions<br><br>
 
 ### Mohamed Maged & Randa
 
-User(seller) survey questions 
+-User(seller) survey questions 
 
-User(seller) interview questions<br><br>
+-User(seller) interview questions<br><br>
 
 ## UX Shared Work (Group Tasks)
 -we worked together making user(buyer) interview questions
