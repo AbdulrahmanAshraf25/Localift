@@ -5,6 +5,11 @@ Localift is a digital platform that supports small and micro businesses by provi
 
 The idea behind Localift is to empower local entrepreneurs by offering a scalable digital solution that connects them with customers in one unified platform. It focuses on improving accessibility, enhancing trust, and enabling the growth of local businesses through a user-friendly experience.
 
+## UI 
+
+(https://www.figma.com/design/3MdB8OFoBrrpsV9GqRrZCC/Untitled?node-id=0-1&t=bpVGiKWD5SWLDPjO-1)
+
+
 ## UX study
 
 (https://www.figma.com/board/IOxWkmN1j6BQTbiQDxmmiE/UX-project?node-id=0-1&t=OrcPOo4OXKPeJyvH-1)
@@ -60,24 +65,49 @@ The idea behind Localift is to empower local entrepreneurs by offering a scalabl
 
 ### UX precess
 ### Omar Ghoniem
--Stakeholder interview questions<br><br>
+-Stakeholder interview questions
 
+user(buyer) journey map
+
+-affinity diagram<br><br>
 
 ### Abdulrahman Ashraf
 
--Competitor Analysis<br><br>
+-Competitor Analysis
+
+-problem statement
+
+-limitations<br><br>
 
 ### Ahmed Ekramy
 
--User(buyer) survey questions<br><br>
+-User(buyer) survey questions
 
-### Mohamed Maged & Randa
+user(seller) journey map
+
+-User(buyer) pain points<br><br>
+
+### Mohamed Maged 
 
 -User(seller) survey questions 
 
--User(seller) interview questions<br><br>
+-User(seller) persona
+
+-User(seller) journey map
+
+### Randa Ramadan
+
+-User(seller) interview questions
+
+-User(buyer) persona
+
+User(seller) pain points<br><br>
 
 ## UX Shared Work (Group Tasks)
 -we worked together making user(buyer) interview questions
 
 -every team member made an interview with 2 users (buyer/seller)
+
+# Instructor Name
+
+## Ahmed Mohamed Abozyada
