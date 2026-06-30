@@ -13,7 +13,7 @@ The idea behind Localift is to empower local entrepreneurs by offering a scalabl
 # Project Links
 
 ## 🎨 UI Design
-https://www.figma.com/design/3MdB8OFoBrrpsV9GqRrZCC/Untitled?node-id=0-1&t=bpVGiKWD5SWLDPjO-1
+https://www.figma.com/design/3MdB8OFoBrrpsV9GqRrZCC/UI-Localift?node-id=54-7&t=O5JjzgpJiiEtkIz1-1
 
 ## 📌 UX Research
 https://www.figma.com/board/IOxWkmN1j6BQTbiQDxmmiE/UX-project?node-id=0-1&t=OrcPOo4OXKPeJyvH-1
