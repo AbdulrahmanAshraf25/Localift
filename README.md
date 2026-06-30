@@ -1,113 +1,234 @@
 # Localift
+
 Localift is a digital platform that supports small and micro businesses by providing an online marketplace to showcase their products. It simplifies order management and delivery processes, helping sellers reach a wider audience and streamline their operations.
 
-## Concept:
+---
+
+# Concept
 
 The idea behind Localift is to empower local entrepreneurs by offering a scalable digital solution that connects them with customers in one unified platform. It focuses on improving accessibility, enhancing trust, and enabling the growth of local businesses through a user-friendly experience.
 
-## UI 
+---
 
-(https://www.figma.com/design/3MdB8OFoBrrpsV9GqRrZCC/Untitled?node-id=0-1&t=bpVGiKWD5SWLDPjO-1)
+# Project Links
 
+## 🎨 UI Design
+https://www.figma.com/design/3MdB8OFoBrrpsV9GqRrZCC/Untitled?node-id=0-1&t=bpVGiKWD5SWLDPjO-1
 
-## UX study
+## 📌 UX Research
+https://www.figma.com/board/IOxWkmN1j6BQTbiQDxmmiE/UX-project?node-id=0-1&t=OrcPOo4OXKPeJyvH-1
 
-(https://www.figma.com/board/IOxWkmN1j6BQTbiQDxmmiE/UX-project?node-id=0-1&t=OrcPOo4OXKPeJyvH-1)
+## 📖 UX Case Study
+https://www.figma.com/design/PhrlmglemJn7CK8UuuzkYz/Case-Study?node-id=0-1&t=5wOxka5hOq2rbS5G-1
 
+---
 
-## Work plan
+# Work Plan
 
-### UX process
+## 1. UX Design Process
 
-#### 1-Empathize : 
+### 1.1 Empathize
 
+- Stakeholders Research
+- Competitor Analysis
+- User Research (Interviews & Surveys)
+- Affinity Diagram
+- Empathy Map
+- Personas
+- User Journey Maps
 
-1.1 Stakeholders' Research
+### 1.2 Define
 
-1.2 Comp. Analysis 
+- Problem Statement
+- Pain Points
+- Project Limitations
 
-1.3 User Research (interviews & surveys)
+### 1.3 Ideate
 
-1.4 Affinity Diagram
+- Feature Ideation
+- Feature Prioritization
+- Value Proposition
+- Feature Sketches
+- Information Architecture
+  - User Flows
+  - Sitemap
+  - Card Sorting
 
-1.5 Empathy map
+---
 
-1.6 Persona
+## 2. UI Design Process
 
-1.7 User journey<br><br>
+### 2.1 Design System
 
+- Brand Identity
+- Color Palette
+- Typography
+- Components
+- Icons
+- Spacing System
 
+### 2.2 Wireframing
 
-#### 2-Define:
+- Low-Fidelity Wireframes
+- Mid-Fidelity Wireframes
 
-2.1 problem statement
+### 2.3 High-Fidelity Design
 
-2.2 Pain points
+- Buyer Screens
+- Seller Screens
+- Responsive Layouts
 
-2.3 Limitations<br><br>
+### 2.4 Prototyping
 
+- Interactive Prototype
+- User Testing
+- Design Iterations
 
+### 2.5 Handoff
 
-#### 3-Ideate:
+- Developer Handoff
+- Assets Export
+- Design Documentation
 
-3.1 Feature ideation (brainstorming & selection)
+---
 
-3.2 Feature priortization (impact - effort)
+# Features
 
-3.3 Value proposition 
+## Buyer
 
-3.4 Features sketching
+- Browse Local Brands
+- Search & Filters
+- Categories
+- Recommended Products
+- Wishlist
+- Cart
+- Easy Checkout
+- Delivery Tracking
+- Ratings & Reviews
+- Verified Sellers
+- Chat with Sellers
 
-3.5 Information architecture: ( user flows - sitemap- extra:card sorting)<br><br>
+## Seller
 
+- Store Management
+- Product Management
+- Order Management
+- Inventory Tracking
+- Analytics Dashboard
+- Customer Communication
+- Sales Reports
 
-## Tasks & Responsibilities
+---
 
-### UX precess
-### Omar Ghoniem
--Stakeholder interview questions
+# Team Responsibilities
 
-user(buyer) journey map
+## Omar Ghoniem
 
--affinity diagram<br><br>
+### UX
+- Stakeholder Interview Questions
+- Buyer Journey Map
+- Affinity Diagram
 
-### Abdulrahman Ashraf
+### UI
+- Buyer Home
+- Search
+- Categories
+- Wishlist
 
--Competitor Analysis
+---
 
--problem statement
+## Abdulrahman Ashraf
 
--limitations<br><br>
+### UX
+- Competitor Analysis
+- Problem Statement
+- Project Limitations
 
-### Ahmed Ekramy
+### UI
+- Design System
+- Product Details
+- Cart
+- Checkout
 
--User(buyer) survey questions
+---
 
-user(seller) journey map
+## Ahmed Ekramy
 
--User(buyer) pain points<br><br>
+### UX
+- Buyer Survey Questions
+- Buyer Pain Points
+- Seller Journey Map
 
-### Mohamed Maged 
+### UI
+- Seller Dashboard
+- Product Management
+- Orders
 
--User(seller) survey questions 
+---
 
--User(seller) persona
+## Mohamed Maged
 
--User(seller) journey map
+### UX
+- Seller Survey Questions
+- Seller Persona
+- Seller Journey Map
 
-### Randa Ramadan
+### UI
+- Analytics
+- Notifications
+- Settings
 
--User(seller) interview questions
+---
 
--User(buyer) persona
+## Randa Ramadan
 
-User(seller) pain points<br><br>
+### UX
+- Seller Interview Questions
+- Buyer Persona
+- Seller Pain Points
 
-## UX Shared Work (Group Tasks)
--we worked together making user(buyer) interview questions
+### UI
+- Profile
+- Chat
+- Order Tracking
+- Onboarding
 
--every team member made an interview with 2 users (buyer/seller)
+---
 
-# Instructor Name
+# Shared Work
 
-## Ahmed Mohamed Abozyada
+### UX
+
+- Buyer Interview Questions
+- User Interviews (Each member interviewed 2 users)
+- Research Analysis
+- Feature Brainstorming
+- Information Architecture Review
+
+### UI
+
+- Wireframe Reviews
+- Design Critiques
+- Prototype Testing
+- Usability Testing
+- Final Design Review
+
+---
+
+# Deliverables
+
+- UX Research
+- Personas
+- Journey Maps
+- Information Architecture
+- Wireframes
+- High-Fidelity UI
+- Interactive Prototype
+- Design System
+- UX Case Study
+
+---
+
+# Instructor
+
+Ahmed Mohamed Abozyada
