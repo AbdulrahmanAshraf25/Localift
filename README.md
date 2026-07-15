@@ -21,6 +21,7 @@ https://www.figma.com/board/IOxWkmN1j6BQTbiQDxmmiE/UX-project?node-id=0-1&t=OrcP
 ## 📖 UX Case Study
 https://www.figma.com/design/PhrlmglemJn7CK8UuuzkYz/Case-Study?node-id=0-1&t=5wOxka5hOq2rbS5G-1
 
+https://drive.google.com/drive/folders/1-iPyNi6xtOSF-rWyLJ4bvsvMhsJhOKEK?usp=drive_link
 ---
 
 # Work Plan
